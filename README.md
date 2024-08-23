@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution in FrontEnd Mentor](https://www.frontendmentor.io/solutions/responsive-testimonial-grid-s1m1agBPAh)
+- [Live Site](https://tofedev.github.io/testimonials-grid-section/)
 
 ## My process
 
